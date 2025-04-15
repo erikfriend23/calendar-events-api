@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/create-reminder",
+      "methods": [
+        "POST"
+      ],
+      "dest": "/api/create-reminder.js"
+    }
+  ]
+}
